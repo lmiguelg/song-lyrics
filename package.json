@@ -1,7 +1,7 @@
 {
   "name": "song-lyrics",
   "version": "0.1.0",
-  "homepage": "https://lmiguelg.github.io/songLyrics",
+  "homepage": "https://lmiguelg.github.io/song-lyrics",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.14",
