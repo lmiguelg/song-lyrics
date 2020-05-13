@@ -1,7 +1,7 @@
-# songLyrics
+# Song Lyrics
 demo at: https://lmiguelg.github.io/song-lyrics
 
-# Search for lyrics
+## Search for lyrics
 
 Components, state, props
 
